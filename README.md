@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tsila20/Preductor-Aviator-2026/refs/heads/main/Screenshot_2026-03-27-21-23-04-107_com.android.chrome%20(1).jpg" width="250"/>
+  <img src="https://raw.githubusercontent.com/Tsila20/Preductor-Aviator-2026/refs/heads/main/Logo%20Aviator.png
 </p>
 
 # ✈️ Aviator Predictor 2026
