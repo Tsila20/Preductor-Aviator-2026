@@ -1,6 +1,8 @@
-# ✈️ Aviator Predictor 2026
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tsila20/Preductor-Aviator-2026/refs/heads/main/Screenshot_2026-03-27-21-23-04-107_com.android.chrome%20(1).jpg" width="250"/>
+</p>
 
-![Aviator](https://your-image-link.com/logo.png)
+# ✈️ Aviator Predictor 2026
 
 ## 🚀 Overview
 Aviator Predictor 2026 is a modern web application designed to simulate and analyze patterns in the Aviator game. Built with cutting-edge technologies, it provides an interactive and smooth user experience.
