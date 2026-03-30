@@ -1,20 +1,16 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# ✈️ Aviator Predictor 2026
 
-# Run and deploy your AI Studio app
+![Aviator](https://your-image-link.com/logo.png)
 
-This contains everything you need to run your app locally.
+## 🚀 Overview
+Aviator Predictor 2026 is a modern web application designed to simulate and analyze patterns in the Aviator game. Built with cutting-edge technologies, it provides an interactive and smooth user experience.
 
-View your app in AI Studio: https://ai.studio/apps/0f4a1bb8-4e03-4f40-84c0-13d286529853
+## ⚙️ Technologies Used
+- Vite
+- TypeScript
+- React
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 📦 Installation
+```bash
+npm install
+npm run dev
